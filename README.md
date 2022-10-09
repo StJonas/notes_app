@@ -1,2 +1,2 @@
 # notes_app
-Notes app - using django and rest
+Notes app - developed with django and react
